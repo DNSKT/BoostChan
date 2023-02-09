@@ -1,0 +1,105 @@
+.logo{
+    text-align: center;
+    width: 100%;
+}
+
+.carta{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.carta-h{
+    background-color: brown;
+}
+
+.cerrar{
+    float: right;
+    margin-right: 10px;
+    color: #fff;
+}
+
+.part1{
+    padding: 1%;
+}
+
+.carta-texto{
+    font-size: 90%;
+}
+
+.g-carta-h{
+    background-color: #fca;
+    color: #800;
+}
+
+.ccc{
+    font-size: 80%;
+}
+.linea{
+    font-size: 110%;
+    color: #800;
+    border-bottom: 3px solid #800;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.lista a{
+    color: #800;
+    list-style: none;
+    text-decoration: none;
+}
+
+.lista ul{
+    text-decoration: none;
+    list-style: none;
+}
+
+.lista p{
+    color : #800;
+    text-align: center;
+}
+
+.part2{
+    padding: 1%;
+}
+
+.part3{
+    padding: 1%;
+}
+
+.part4{
+    padding: 1%;
+}
+
+.lista2{
+    color: #800;
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+.part5{
+    padding: 0%;
+    text-align: center;
+}
+
+.part5 button{
+    color: #800;
+    font-size: 100%;
+}
+
+.part5 button:hover{
+    cursor: pointer;
+    background-color: #800;
+}
+
+.part6{
+    text-align: center;
+    padding: 1%;
+}
+
+.part7{
+    text-align: center;
+    padding: 1%;
+    color: #800;
+}
